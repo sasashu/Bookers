@@ -20,11 +20,17 @@
   box-sizing: border-box;
 }
 
-.title{
-  font-size: 28px;
-  margin: 30px;
+body{
+  font-family: verdana, arial, helvetica, sans-serif;
+  margin: 33px;
+  font-size: 13px;
+  color: #333;
+  line-height: 18px;
+}
+
+h1{
 }
 
 p{
-  margin: 30px 60px;
+  margin: 33px;
 }
